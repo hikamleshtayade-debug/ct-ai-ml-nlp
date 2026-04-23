@@ -6,6 +6,7 @@
 - **Jupyter Notebook** or **JupyterLab**
 - **pip** (Python package manager)
 
+> Development verified on Python 3.12.1
 ---
 
 ## 🚀 Quick Setup & Installation
